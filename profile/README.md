@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## GooDeeds
+---
+GooDeeds is a little project which origin lies in the Ramadan Code Fest 2023 on stackstream for the project Polarstern of SOS Kinderdorf.
+We implemented an Android app using .NET MAUI, which is the main product of our project and an API providing some data for the app.
+The purpose of GooDeeds is to give an attraction to do good deeds using simple gamification. We implemented this in the shape of an app which gives you daily reminders to do good deeds and rewarding you for completing them with achievements for reaching certain milestones but also experience which highers the level of your avatar.
