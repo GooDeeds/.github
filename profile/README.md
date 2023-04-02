@@ -6,6 +6,6 @@ The purpose of GooDeeds is to give an attraction to do good deeds using simple g
 
 ## GooDeeds API
 
-The GooDeeds API provides [good deeds](deedapi.thelooser.de/deed) and [achievements](deedapi.thelooser.de/achievement) for the app. Currently you can't add, delete or edit entrys but that is a planned feature.
+The GooDeeds API provides [good deeds](https://deedapi.thelooser.de/deed) and [achievements](https://deedapi.thelooser.de/achievement) for the app. Currently you can't add, delete or edit entrys but that is a planned feature.
 
 ### Achievements
