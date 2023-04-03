@@ -16,13 +16,13 @@ The **name** of the achievement is a short explanation what you have to do in sh
 The **description**, being a string again, is most of the time a funny text that congratulates you for reaching the achievement.\
 Here is an example entry:\
 ```
-  {
+{
     "id":1,
     "value":1,
     "type":1,
     "name":"Complete your first deed!",
     "description":"Congratulations! You have completed your first good deed! Keep up the good work!"
-   }
+}
 ```
 
 ### Deeds
@@ -33,11 +33,11 @@ The **experience** is a number which describes the rewarded experience points fo
 The value of **deed_generator** is used to determine what base text is used while sharing a achievement. The base text is defined in the app.\
 Here is an example entry:\
 ```
-  {
-    "id":18,
-    "title":"Donate money to a charity",
-    "description":"If you are feeling flush and want to spread some love, why not fling some cash towards a charity? It is like giving your wallet a hug, except the warm fuzzy feelings go to someone in need instead of your money!",
-    "experience":750,
-    "deed_generator":1
-  }
+{
+  "id":18,
+  "title":"Donate money to a charity",
+  "description":"If you are feeling flush and want to spread some love, why not fling some cash towards a charity? It is like giving your wallet a hug, except the warm fuzzy feelings go to someone in need instead of your money!",
+  "experience":750,
+  "deed_generator":1
+}
 ```
