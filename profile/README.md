@@ -14,7 +14,7 @@ The **type** is a number which is used to determine what kind of things have to 
 The **value** is also a number but it describes how many times you have to do the thing defined in the type. If you take the example from before you could say that you would have to complete 10 deeds to get this achievement.\
 The **name** of the achievement is a short explanation what you have to do in shape of a string. The name for the achievement to complete 10 deeds is "Complete 10 deeds!".\
 The **description**, being a string again, is most of the time a funny text that congratulates you for reaching the achievement.\
-Here is an example entry:\
+Here is an example entry:
 ```
 {
     "id":1,
@@ -31,7 +31,7 @@ The **title** is a string telling you the objective of the object. For instance 
 The **description** contains the informations of the title but it is formulated in a funny way. The description for the first example is "If you are feeling flush and want to spread some love, why not fling some cash towards a charity? It is like giving your wallet a hug, except the warm fuzzy feelings go to someone in need instead of your money!"\
 The **experience** is a number which describes the rewarded experience points for completing this deed. The experience for "Donate to a charity" would be 750.
 The value of **deed_generator** is used to determine what base text is used while sharing a achievement. The base text is defined in the app.\
-Here is an example entry:\
+Here is an example entry:
 ```
 {
   "id":18,
