@@ -44,10 +44,13 @@ Here is an example entry:
 ## GooDeeds_APP
 The GooDeeds_APP is the main product of the project.\
 The first time opening the app you will get to the Introduction Page where the app and its purpose is explained.\
-After you continued you can create your avatar. You can choose your race and your profession but both don't have any influence on the gameplay except for the look of your avatar for example on the **Account Page**.
+After you continued you can create your avatar. You can choose your name, race and profession but both don't have any influence on the gameplay except for the look of your avatar for example on the **Account Page**. Then you get into the actual.
 It is currently structured in 2 main pages: The **Deed Page** and the **Account Page**. It synchronises currently all achievements and deeds every five minutes by requesting them from the API.
 ### Deed Page
 The **Deed Page** contains all the downloaded deeds in a list and a search bar for finding specific deeds. Each element of the deed list is structured in title, description and rewarded experience of the deed.\
 By clicking on an element you get to the Deed Info Page. There you again have all the information about the deed but also the choice to mark this deed as completed by clicking on a button. By clicking the button you see which deed you've completed and you see your avatars level progress.\
 Additionally you have the opportunity to share your deed completion by clicking the share icon. There you can share a auto-generated text.
 ### Account Page
+On the **Account Page** you can see your name, avatar, your level and progress, a button for your Quest History and another one for Achievements.
+On the page for your Quest History you can see a list of deeds. Each element shows the time of completion, the earned experience and the title of the deed.
+The Achievement Page is similarly structured as the Quest History. It also contains a list of achievements in which each element has the title and time of completion of the achievement.
